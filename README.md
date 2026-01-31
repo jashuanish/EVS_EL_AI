@@ -1,6 +1,8 @@
-# 🌍 Orchids Pollution Safety Map AI
+# 🌍 Smart Satellite to Street Pollution Safety Map AI
 
 An AI-powered environmental intelligence platform that provides real-time air quality monitoring and pollution prediction across 500+ cities globally. This application combines satellite data, ground sensors, and machine learning models to deliver street-level pollution analysis with comprehensive safety scoring.
+
+<img width="2559" height="1538" alt="Screenshot 2026-01-20 112154" src="https://github.com/user-attachments/assets/b1e74513-3d5f-457a-a7f2-6d1c82ee5103" />
 
 ## 📋 Table of Contents
 
@@ -33,6 +35,8 @@ An AI-powered environmental intelligence platform that provides real-time air qu
 To empower individuals and organizations with actionable air quality data, enabling them to make informed decisions about their health and outdoor activities.
 
 ## ✨ Key Features
+
+<img width="2367" height="1441" alt="Screenshot 2026-01-20 112310" src="https://github.com/user-attachments/assets/e14d8fdf-fa73-42a3-a062-8b7c6808243a" />
 
 ### 1. **Real-time Air Quality Monitoring**
 - Live AQI (Air Quality Index) tracking for 500+ cities
